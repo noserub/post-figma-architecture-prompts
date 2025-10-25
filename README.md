@@ -33,20 +33,20 @@ prompts/
 └── README_PROMPT_GUIDE.md            # Complete usage guide
 ```
 
-## 🎯 Project-Specific Sequences
+## 🎯 Common Use Cases
 
-### Family AI Assistant
+### AI-Powered Applications
 ```
 1. Import from Figma Make
 2. Prompt 1: Initial Assessment
 3. Prompt 2: Database Architecture
 4. Prompt 3: Performance Optimization
 5. Prompt 5a: AI Integration
-6. Prompt 5d: Real-time Features
+6. Prompt 5d: Real-time Features (if needed)
 7. Prompt 4: Production Readiness
 ```
 
-### Band Website with Music Player
+### Media/Audio Applications
 ```
 1. Import from Figma Make
 2. Prompt 1: Initial Assessment
@@ -56,13 +56,13 @@ prompts/
 6. Prompt 4: Production Readiness
 ```
 
-### Crypto Risk Detection Extension
+### Browser Extensions
 ```
 1. Import from Figma Make (UI only)
 2. Prompt 5c: Browser Extension Architecture - FIRST
 3. Prompt 1: Initial Assessment (adapted)
 4. Prompt 2: Database Architecture
-5. Prompt 5a: AI Integration
+5. Prompt 5a: AI Integration (if needed)
 6. Prompt 3: Performance Optimization
 7. Prompt 4: Production Readiness
 ```
