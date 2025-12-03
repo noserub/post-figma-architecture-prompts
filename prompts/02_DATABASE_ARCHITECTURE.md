@@ -79,7 +79,7 @@ Create TypeScript interfaces for your database schema:
    ```
 
 ### Step 3: Custom Hooks Architecture
-Create a robust hooks system following the pattern from your portfolio:
+Create a robust hooks system following proven patterns:
 
 1. **Base Hook Pattern** (`/src/hooks/useAppSettings.ts`)
    ```typescript
@@ -339,6 +339,6 @@ After completing this architecture:
 
 ## Notes
 - This prompt establishes the foundation for all data operations
-- The patterns here are based on your working portfolio architecture
+- The patterns here are based on proven production architectures
 - All hooks follow the same pattern for consistency
 - Error handling is comprehensive to prevent data loss

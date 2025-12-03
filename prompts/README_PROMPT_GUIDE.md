@@ -19,20 +19,20 @@ This guide provides a systematic approach to transform Figma Make exports into p
 4. Run **Prompt 2: Database Architecture**
 5. Run **Prompt 4: Production Readiness**
 
-## Project-Specific Sequences
+## Common Use Cases
 
-### Family AI Assistant
+### AI-Powered Applications
 ```
 1. Import from Figma Make
 2. Prompt 1: Initial Assessment
 3. Prompt 2: Database Architecture
 4. Prompt 3: Performance Optimization
 5. Prompt 5a: AI Integration
-6. Prompt 5d: Real-time Features
+6. Prompt 5d: Real-time Features (if needed)
 7. Prompt 4: Production Readiness
 ```
 
-### Band Website with Music Player
+### Media/Audio Applications
 ```
 1. Import from Figma Make
 2. Prompt 1: Initial Assessment
@@ -42,13 +42,13 @@ This guide provides a systematic approach to transform Figma Make exports into p
 6. Prompt 4: Production Readiness
 ```
 
-### Crypto Risk Detection Extension
+### Browser Extensions
 ```
 1. Import from Figma Make (UI components only)
 2. Prompt 5c: Browser Extension Architecture - **FIRST**
 3. Prompt 1: Initial Assessment (adapted for extensions)
 4. Prompt 2: Database Architecture
-5. Prompt 5a: AI Integration
+5. Prompt 5a: AI Integration (if needed)
 6. Prompt 3: Performance Optimization
 7. Prompt 4: Production Readiness
 ```
@@ -176,8 +176,8 @@ Verify that the changes work correctly before moving to the next prompt.
 ### 4. Customize as Needed
 These prompts are templates. Adapt them to your specific project requirements.
 
-### 5. Reference Your Portfolio
-All patterns are based on your working portfolio architecture. Use it as a reference.
+### 5. Reference Working Examples
+All patterns are based on proven production architectures. Reference working examples when implementing.
 
 ## Troubleshooting
 
@@ -208,7 +208,7 @@ All patterns are based on your working portfolio architecture. Use it as a refer
 1. Check the console for error messages
 2. Verify that all dependencies are installed
 3. Ensure prompts were run in the correct order
-4. Reference your working portfolio for patterns
+4. Reference working examples for patterns
 5. Check the specific prompt documentation for details
 
 ## File Structure
@@ -252,7 +252,7 @@ After completing the prompt sequence:
 If you encounter issues:
 
 1. Check the specific prompt documentation
-2. Reference your working portfolio for patterns
+2. Reference working examples for patterns
 3. Ensure all dependencies are properly installed
 4. Verify that prompts were run in the correct order
 5. Check the console for error messages

@@ -463,7 +463,7 @@ After completing performance optimization:
 - Or run **Prompt 5b: Audio Optimization** if audio features are needed
 
 ## Notes
-- All optimizations are based on patterns from your working portfolio
+- All optimizations are based on proven production patterns
 - Performance monitoring is only active in development
 - Caching strategies are designed to minimize API costs
 - Virtual scrolling is only implemented when needed for large lists
